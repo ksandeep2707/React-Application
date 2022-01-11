@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react_js/static/css/main.1b465a3a.css",
+    "main.js": "/react_js/static/js/main.db4eda12.js",
+    "static/media/home.jpg": "/react_js/static/media/home.c73687806e53c085bee9.jpg",
+    "static/media/4.jpg": "/react_js/static/media/4.c045f5ee42457342b2bd.jpg",
+    "static/media/img2.jpg": "/react_js/static/media/img2.5e8e61e598cb0c3b7860.jpg",
+    "static/media/cal.jpg": "/react_js/static/media/cal.7ab3c07133e9eb19a21f.jpg",
+    "static/media/2.jpg": "/react_js/static/media/2.29a02afac7d06da532cf.jpg",
+    "static/media/img3.jpg": "/react_js/static/media/img3.3870b5aa534e2f9ae56e.jpg",
+    "static/media/5.jpg": "/react_js/static/media/5.1ceeadc1159c6d76772d.jpg",
+    "static/media/1.png": "/react_js/static/media/1.834fc0aa297641a085c8.png",
+    "static/media/3.jpg": "/react_js/static/media/3.432ee22a72567ffd883b.jpg",
+    "static/media/Technology-Bold.ttf": "/react_js/static/media/Technology-Bold.8cdd2cfe2ab96f416aff.ttf",
+    "static/media/img1.jpg": "/react_js/static/media/img1.ede4b36a5b876b563f09.jpg",
+    "index.html": "/react_js/index.html",
+    "main.1b465a3a.css.map": "/react_js/static/css/main.1b465a3a.css.map",
+    "main.db4eda12.js.map": "/react_js/static/js/main.db4eda12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b465a3a.css",
+    "static/js/main.db4eda12.js"
+  ]
+}
